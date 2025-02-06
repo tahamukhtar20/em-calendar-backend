@@ -1,0 +1,6 @@
+@em_calendar_HostAddress = http://localhost:5092
+
+GET {{em_calendar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

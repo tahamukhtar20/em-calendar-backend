@@ -1,0 +1,6 @@
+﻿services:
+  em-calendar:
+    image: em-calendar
+    build:
+      context: .
+      dockerfile: Dockerfile
